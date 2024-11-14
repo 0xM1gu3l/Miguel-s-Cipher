@@ -1,4 +1,4 @@
-## Miguel's Cipher (Nkjyjr'z KrzsqE)
+## Miguel's Cipher (GnzNBM'E HJYMRJ)
 
 ----- BEGIN HUMAN VERSION -----
 
@@ -11,10 +11,11 @@ Simply, this is a encode/decode program of my "Cipher".
 
 Yeah I know there's nothing special but I decided to upload here so some ppl can see it (if they want, idk...)
 
-So basically, ujdx'x oA!
+So basically, NotO'P PF!
 
 
 Just put a text on the `2encode.txt` file run the `encode.py`, or if you want to decode, put the encoded message on the `2decode.txt` file and run `decode.py`.
+**UPDATE:** Now the encryption algorithm will need a key provided by the user!
 
 >Why not just put an `input()` instead of writing the text to a file???
 
@@ -23,24 +24,27 @@ Because python does not support ENTER as a line break in the terminal (afaik), s
 ----- END HUMAN VERSION -----
 
 ----- BEGIN ENCODED VERISON -----
-## Nkjyjr'z KrzsqE (bzzPBK'T fNWQPe)
 
-> FOP... AMGa bQO SQPY Xi kZbm?  
+## GnzNBM'E HJYMRJ (fhWgGj't TAzBwm)
 
-D YXl dxqndms zv GxE.
-MmFwrqCDR CO SxQ zN JFHE YNHb r RLP gcSQp (11/11/24) SgX D iXbd a qtrkwgt ikyFF vH!
+> wzg... zAhQ Etf IjHL At noBP?  
 
-hyDHES, ODFQ HS B GQGTJL/LNMZPR dgeXjTg jb jw "Biqjhv".
+f VmW FQUKsDh cH JLD.
+NjTfHVDAs nM LxF mW JkJV LEUc b axU FVEnd (11/11/24) VFI C jteB X BSPhWVE LVhNO FE!
 
-dkhp R uyAJ HwuIw'L HJPEGMG TRHGNGS Jdd t PRQXTVV mi plimZd igui xu zwvo ABy qpD Jwx CO (EC RGEZ YDRY, OKS...)
+ebNYQx, LEcd BP x TzhPkJ/SwJisx SOJsSBb TQ En "wnIaBG".
 
-BY MMfWRQcdr, oeZu'v nA!
+kfBg n LFxq cAdOT'E WPUMNFF mgxfFXx iVU n SwJcsxe QJ GUMZFS zHlr LT PJyf QYQ Tsy mrx ZQ (Pr QIjd zsyn, nwX...)
+
+pJ njTfHVDAs, IHOl'i bE!
 
 
-Kwvx uAA i CoIF BB Ixv `2wGwJzB.RWT` GKOI WaU bQO `PZPcSU.gq`, hl db vmt wbpw xt jlkxnp, BHH Ixv wGwJzBB LETUDKJ UU bQO `2OQPcSU.kpm` Zdhb Ymd swq `hjivln.zJ`.
+kTXC Hrn v MdUE AW UgJ `2RFJisx.OUE` rbMj WBF sbr `xUzJpf.QP`, TE AG shN LxKF QP kJTGIY, gNO QQq fOlTSwI grLPxRq VO UMR `2vHWhwd.QAF` eJcJ VFI lbG `eBVAgF.Yd`.
+**bhiuCX:** uLB FcF jSTJnjcBTK XxdPWNCzz qnEW KTqg B dJx HuiaBeBU nL UgJ BKHl!
 
->iuM CEK BNMO LRR zN `JPSYY()` OUacOLP bT lhZlbhb pec seyv ws f lptn???
+>zAJ KJF aVVY GMs Ui `BUMDF()` bOVYRsI iq PQFEuWH UMR LHrc MT x SuYF???
 
-LponIHu GQMBJJ AMDS OQW WZVWWad pzGsG Qj S ecia Ypdal kq xmk AmAwtznz (pvrAD), MJ e'IJ KEU aRY ZYL bQO ejg TXbV gk gjZfdx tig fsik Pn HyF InBI IF.
+MJTsrmr IJQQAW EZJD Fxn dNSMJDQ fAyrj Lm v EZKT nSFnP NF sbr MdOLuWBc (FQsDe), dH z'IM xfU PTB MtY cAd QAF eJcJ HJ zisBcV Etf DZIR aG shN LxKF RP.
 
------ END ENCODED VERISON -----
+----- END ENCODED VERISON -----  
+Hint: SuperSecretKey
